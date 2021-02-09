@@ -1,5 +1,4 @@
 Hello world
 Im Charles Jimenez
 ...
-Update from branch 1
-Update from branch 2
+
